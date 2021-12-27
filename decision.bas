@@ -4,6 +4,7 @@
 ': https://github.com/FellippeHeitor/InForm
 '-----------------------------------------------------------
 
+Randomize Timer
 ': Controls' IDs: ------------------------------------------------------------------
 Dim Shared DecisionMaker As Long
 Dim Shared YesOrNoLB As Long
