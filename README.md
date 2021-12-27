@@ -1,5 +1,5 @@
 qbDecision
-##########
+==========
 
 A simple GUI program to make a yes or no decision.
 
